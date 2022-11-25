@@ -166,7 +166,7 @@ body{
 }
 
 .about .info p{
-  font-size: 1.4rem;
+  font-size: 20px;
   color:#444;
   margin:2rem 0;
 }
@@ -227,7 +227,7 @@ body{
 }
 
 .philosophy .info p{
-  font-size: 1.4rem;
+  font-size: 20px;
   color:#fff;
   margin:2rem 2rem;
 }
