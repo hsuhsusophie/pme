@@ -518,9 +518,7 @@ body{
   .header nav ul li a{
     display: block;
     padding:.5rem 0;
-    border: .1rem solid rgba(0,0,0,.3);
     width:25rem;
-    border-radius: 5rem;
     text-align: center;
   }
 
